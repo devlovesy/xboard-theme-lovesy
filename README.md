@@ -1,25 +1,32 @@
 # xboard-theme-lovesy
 
-xboard 主题，前后端分离，简洁、优雅。
+xboard 主题，前后端分离，简洁、优雅，支持 PC 和 移动端。
 
 ## 体验地址
 
-该地址为正式环境，订阅可直接购买。
+该地址为正式环境，订阅也可直接购买。
 
 [https://www.lovesy.net](https://www.lovesy.net)
 
-## 截图
+## PC 版截图
 
-![home](./screenshots/home.png)
-![knowledge](./screenshots/knowledge.png)
-![order](./screenshots/order.png)
-![invite](./screenshots/invite.png)
-![plan](./screenshots/plan.png)
-![node](./screenshots/node.png)
-![profile](./screenshots/profile.png)
-![ticket](./screenshots/ticket.png)
-![traffic](./screenshots/traffic.png)
+![home](./screenshots/pc/home.png)
+![knowledge](./screenshots/pc/knowledge.png)
+![order](./screenshots/pc/order.png)
+![invite](./screenshots/pc/invite.png)
+![plan](./screenshots/pc/plan.png)
+![node](./screenshots/pc/node.png)
+![profile](./screenshots/pc/profile.png)
+![ticket](./screenshots/pc/ticket.png)
+![traffic](./screenshots/pc/traffic.png)
 
-## 购买联系
+## 移动版截图
+
+|    ![home](./screenshots/mobile/home.png)    | ![knowledge](./screenshots/mobile/knowledge.png) |   ![order](./screenshots/mobile/order.png)   |
+| :------------------------------------------: | :----------------------------------------------: | :------------------------------------------: |
+|  ![invite](./screenshots/mobile/invite.png)  |      ![plan](./screenshots/mobile/plan.png)      |    ![node](./screenshots/mobile/node.png)    |
+| ![profile](./screenshots/mobile/profile.png) |    ![ticket](./screenshots/mobile/ticket.png)    | ![traffic](./screenshots/mobile/traffic.png) |
+
+## 购买以及定制化开发
 
 - Telegram: [https://t.me/jenlors](https://t.me/jenlors)
