@@ -29,6 +29,6 @@ xboard 主题，前后端分离，简洁、优雅，支持 PC 和 移动端。
 |    ![node](./screenshots/mobile/node.png)    | ![profile](./screenshots/mobile/profile.png) |    ![ticket](./screenshots/mobile/ticket.png)    |
 | ![traffic](./screenshots/mobile/traffic.png) |                                              |                                                  |
 
-## 购买以及定制化开发
+## 主题购买以及定制化开发
 
 - Telegram: [https://t.me/jenlors](https://t.me/jenlors)
