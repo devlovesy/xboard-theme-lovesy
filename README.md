@@ -10,6 +10,7 @@ xboard 主题，前后端分离，简洁、优雅，支持 PC 和 移动端。
 
 ## PC 版截图
 
+![landing](./screenshots/pc/landing.png)
 ![home](./screenshots/pc/home.png)
 ![knowledge](./screenshots/pc/knowledge.png)
 ![order](./screenshots/pc/order.png)
@@ -22,10 +23,11 @@ xboard 主题，前后端分离，简洁、优雅，支持 PC 和 移动端。
 
 ## 移动版截图
 
-|    ![home](./screenshots/mobile/home.png)    | ![knowledge](./screenshots/mobile/knowledge.png) |   ![order](./screenshots/mobile/order.png)   |
-| :------------------------------------------: | :----------------------------------------------: | :------------------------------------------: |
-|  ![invite](./screenshots/mobile/invite.png)  |      ![plan](./screenshots/mobile/plan.png)      |    ![node](./screenshots/mobile/node.png)    |
-| ![profile](./screenshots/mobile/profile.png) |    ![ticket](./screenshots/mobile/ticket.png)    | ![traffic](./screenshots/mobile/traffic.png) |
+| ![landing](./screenshots/mobile/landing.png) |    ![home](./screenshots/mobile/home.png)    | ![knowledge](./screenshots/mobile/knowledge.png) |
+| :------------------------------------------: | :------------------------------------------: | :----------------------------------------------: |
+|   ![order](./screenshots/mobile/order.png)   |  ![invite](./screenshots/mobile/invite.png)  |      ![plan](./screenshots/mobile/plan.png)      |
+|    ![node](./screenshots/mobile/node.png)    | ![profile](./screenshots/mobile/profile.png) |    ![ticket](./screenshots/mobile/ticket.png)    |
+| ![traffic](./screenshots/mobile/traffic.png) |                                              |                                                  |
 
 ## 购买以及定制化开发
 
